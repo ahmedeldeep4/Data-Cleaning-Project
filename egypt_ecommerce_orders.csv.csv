@@ -1,0 +1,424 @@
+﻿Order ID,  Customer Name ,Age,City,email,Phone Number,product category,Unit Price,Quantity,order_date,Payment Method,Rating,Returned?,Notes
+1026,salma naguib,46,luxor,salma.naguib40@hotmail.com,012-8753-9698,ELECTRONICS,510.61 EGP,2,18/02/2025,null,4,yes,fragile  
+1263,youssef fouad,43,Giza,youssef.fouad3@hotmail.com,012 374 9728,Sport,"$2,601.08",6,14/07/2025,Fawry,1,1,
+1259,Ali Naguib,47,Cario,ali.naguib63@yahoo.com,015 682 9037,Electronics,$925.50,6,06/11/2024,Wallet,4,1,urgent
+1254,FATMA MOSTAFA,50,Tanta,fatma.mostafa28@hotmail.com,+201147830178,Electronics,540.57 EGP,5,2024/01/15,Wallet,3,FALSE,Customer called!!
+1182, Laila Hassan  ,45,Luxor,laila.hassan25@yahoo.com,010 832 7385,Home,3005.17,1,07-15-2025,fawry,4,yes,N/A
+1318,Omar Khalil,54,GIZA,omar.khalil26@gmail.com,010 638 6388,Sport,1054.72,6,04-14-2025,Credit Card,4,FALSE,
+1066, Dina Samir  ,54,Giza,dina.samir12@gmail.com,01051512297,Books,4028.13,5,,cash,3,no,N/A
+1217, Rania Mostafa  ,29,aswan,rania.mostafa15@hotmail.com,012 280 6046,beauty,435.58,6,10 Aug 2025,FAWRY,2,0,
+1314, Hassan Hassan  ,37,giza,hassan.hassan97@hotmail.com,+201173351303,home,3926.48,4,2025/02/19,COD,4,No,Customer called!!
+1267,laila hassan,59,tanta,laila.hassan33@hotmail.com,010 978 8248,electronics,"4,215.29 EGP",6,25/02/2024,Wallet,1,TRUE,Customer called!!
+1135,tarek saleh,61,tanta,tarek.saleh85@yahoo.com,012-5631-5890,sports,"2,015.91 EGP",1,2024/01/08,Credit Card,5,N,Customer called!!
+1165, Nour Samir  ,20,Tanta,nour.samir52@hotmail.com,015 321 8359,Clothing,$326.76,3,2024/07/03,Credit card ,4,No,N/A
+1065,Salma Mostafa,25,Alexandria,salma.mostafa88@yahoo.com,+201156630633,Electronics,"$2,287.61",6,2025-03-31,Credit Card,5,1,
+1308,Karim Ali,24,mansoura,karim.ali60@hotmail.com,+201142080592,Electronic,N/A,1,?,cash,1,no,urgent
+1220, Nour Naguib  ,60,Mansoura,nour.naguib90@hotmail.com,012 665 8373,Clothing,$469.08,6,01 Mar 2025,Cash on Delivery,-,No,gift
+1293,MOSTAFA FOUAD,21,Giza,mostafa.fouad16@hotmail.com,012 686 6074,Home,1117.13,6,2025-05-15,Mobile Wallet,5,TRUE,fragile  
+1095,mahmoud adel,NaN,null,mahmoud.adel14@gmail.com,012 923 6399,Beauty,"$3,143.92",5,19 Jul 2024,N/A,5,TRUE,urgent
+1280,tarek khalil,34,Giza,tarek.khalil56@hotmail.com,015 275 8817,Clothing,1094.79,1,2024-09-22,Cash on Delivery,4,N,Customer called!!
+1164,TAREK ALI,32,Cairo,tarek.ali21@yahoo.com,011 837 2856,Sports,"$3,235.21",2,02/06/2024,cash on delivery,NaN,FALSE,
+1222,MOSTAFA SALEH,57,Cairo,mostafa.saleh66@yahoo.com,01087036318,Home,"2,698.41 EGP",1,25 Apr 2025,Mobile Wallet,5,0,gift
+1074,heba ali,44,Aswan,user@.com,null,clothing,"2,081.37 EGP",5,2025-04-27,Credit card ,3,no,
+1384,Khaled Ibrahim,58,Tanta,khaled.ibrahim21@yahoo.com,01037348550,Book,4223.0,6,2024/09/23,fawry,3,No,
+1079,karim mostafa,18,NaN,karim.mostafa75@hotmail.com,010 163 2936,Books,1215.83,3,12-03-2024,wallet,5,No,
+1181,mostafa fouad,51,aswan,mostafa.fouad30@gmail.com,01069305486,Beauty,"$2,692.23",3,2025/05/08,Cash on Delivery,1,1,fragile  
+1203,FATMA KHALIL,,tanta,fatma.khalil14@yahoo.com,012 852 1643,Sports,3224.9,6,2024/02/09,Cash on Delivery,3,N,Customer called!!
+1382,SARA NAGUIB,50,Tanta,sara.naguib59@hotmail.com,015 459 8601,ELECTRONICS,"3,355.17 EGP",4,04/08/2024,Credit Card,4,Yes,Customer called!!
+1224, Nour Khalil  ,27,Luxor,nour.khalil85@yahoo.com,01095573823,Books,3776.17,4,27/01/2025,Cash on Delivery,1,No,Customer called!!
+1349, Mona Saleh  ,58,Luxor,mona.saleh82@gmail.com,015 186 5683,Electronics,"$4,739.90",4,yesterday,wallet,1,TRUE,
+1015,Dina Saleh,32, Alexandria,none,012-9346-7548,Electronic,"3,317.16 EGP",4,12-02-2024,cash,3,0,N/A
+1266,mona fouad,31,Alexandria,mona.fouad33@hotmail.com,?,Electronics,$917.01,3,31/02/2024,Credit Card,4,N,urgent
+1389,tarek ali,20,tanta,N/A,01025388056,Home & Kitchen,"2,955.00 EGP",3,06-27-2025,Credit card ,4,N,
+1089,mohamed hassan,44, Alexandria,mohamed.hassan28@hotmail.com,012 116 1108,Beauty,"1,195.60 EGP",6,2024-06-03,cash on delivery,1,Yes,
+1208,SARA SALEH,39,Tanta,sara.saleh8@gmail.com,012 841 5705,Books,"2,647.00 EGP",6,2024/08/02,N/A,5,yes,
+1078, Khaled Naguib  ,26,Luxor,khaled.naguib21@hotmail.com,012-5215-4050,sports,2366.7,2,04-25-2024,Mobile Wallet,4,No,fragile  
+1021,Rania Samir,56,Alexandria,rania.samir50@yahoo.com,01099774697,Book,,-2,,credit card,4,0,Customer called!!
+1003,ali saleh,47,Aswan,ali.saleh90@hotmail.com,010 267 8573,Home,$855.14,3,,cash on delivery,5,N,urgent
+1125,YOUSSEF MOSTAFA,62,Cairo,youssef.mostafa50@yahoo.com,012 459 9946,Home,"$1,320.46",1,2024-01-02,Cash on Delivery,2,FALSE,urgent
+1216, Omar Saleh  ,250,tanta,omar.saleh42@hotmail.com,+201119519256,Sport,$680.60,1,2025-02-19,Credit Card,4,1,urgent
+1172,KHALED SALEH,52,Luxor,khaled.saleh62@gmail.com,01055588495,Sports,"$1,288.20",4,2025/01/21,Cash on Delivery,4,N,
+1236,Mona Naguib,55,Tanta,?,01040572391,HOME,2124.38,6,29/11/2024,Fawry,4,0,urgent
+1367,KARIM NAGUIB,45,Mansoura,karim.naguib84@gmail.com,+201166191544,beauty,4865.6,NaN,07/12/2024,Cash on Delivery,4,No,
+1198,Mohamed Naguib,59,القاهرة,mohamed.naguib3@yahoo.com,01097162488,Electronic,1973.79,3,2025-01-03,Wallet,3,No,
+1032,Laila Fouad,NaN,القاهرة,laila.fouad99@yahoo.com,012-9889-8569,Book,485.9,3,2024-11-27,Cash on Delivery,4,N,fragile  
+1098,Mona Samir,65,Tanta,mona.samir48@yahoo.com,01072151291,Sports,999999,5,14 Aug 2024,Cash on Delivery,5,TRUE,fragile  
+1213,fatma ibrahim,39,Mansura,fatma.ibrahim74@yahoo.com,012-6257-4285,ELECTRONICS,560.36,6,2024-11-15,Fawry,4,N,urgent
+1352,heba naguib,30,Cario,heba.naguib63@gmail.com,012-5098-4704,Sports,"$2,595.88",2,2025-02-24,Mobile Wallet,5,TRUE,urgent
+1037, Laila Adel  ,41,mansoura,laila.adel22@gmail.com,+201191804602,Clothing,"1,258.78 EGP",4,none,Fawry,4,N,N/A
+1386,Ahmed Fouad,22,Mansura,ahmed.fouad41@hotmail.com,01070515891,Beauty,427.75,6,05 Mar 2025,Wallet,5,no,N/A
+1039, Laila Mostafa  ,56,luxor,laila.mostafa81@gmail.com,+201196750368,Home,"1,134.07 EGP",2,13/09/2024,Wallet,N/A,yes,gift
+1099,youssef samir,48,Giza,youssef.samir9@yahoo.com,+201125446483,Books,$533.23,6,04-08-2025,FAWRY,3,No,
+1384,KHALED IBRAHIM,58,Tanta,khaled.ibrahim21@yahoo.com,01037348550,Book,4223.0,6,2024/09/23,fawry,3,No,
+1169,Nour Ibrahim,65,ALEXANDRIA,nour.ibrahim66@yahoo.com,01055424358,Books,3926.39,2,12/04/2024,CC,3,FALSE,Customer called!!
+1151,ALI ALI,21,Aswan,ali.ali19@gmail.com,01049613096,Electronics,1039.52,2,10-20-2024,Cash on Delivery,3,No,
+1141,Sara Hassan,21,aswan,sara.hassan33@yahoo.com,012-1152-5933,Electronics,2113.04,4,2024/05/06,COD,3,TRUE,N/A
+1158,NOUR IBRAHIM,20,Cairo,nour.ibrahim40@gmail.com,+201138418851,Sports,3003.44,5,2025-07-14,CC,5,No,N/A
+1064,fatma ali,999,Mansoura,fatma.ali68@yahoo.com,015 126 4048,Home,1891.47,1,10/08/2025,Cash on Delivery,3,TRUE,gift
+1180,ali samir,23,Cairo,ali.samir30@gmail.com,012-3071-3150,HOME,3109.61,1,02-03-2025,Fawry,5,FALSE,fragile  
+1319,heba mostafa,29,tanta,heba.mostafa13@yahoo.com,+201142171352,Beauty,2188.78,4,2024/07/06,Wallet,4,TRUE,
+1371,Fatma Ibrahim,62,mansoura,fatma.ibrahim22@gmail.com,01059858951,Books,"1,600.29 EGP",6,18 Feb 2025,Credit Card,5,0,
+1250,Hassan Ali,55,Cairo,hassan.ali21@gmail.com,01046597195,Clothes,"$1,632.42",null,05-18-2024,Cash on Delivery,3,No,gift
+1317,Ali Saleh,31,ALEXANDRIA,ali.saleh48@hotmail.com,+201133062057,home,3314.87,1,2025-04-10,wallet,3,TRUE,fragile  
+1238,MONA IBRAHIM,44,Luxor,N/A,N/A,Sports,2471.61,2,29 Apr 2025,Fawry,1,TRUE,Customer called!!
+1307, Fatma Adel  ,36,Giza,fatma.adel31@hotmail.com,01085088096,ELECTRONICS,2612.52,6,2024-05-28,,5,No,Customer called!!
+1049,Dina Fouad,25,Gizah,dina.fouad6@gmail.com,+201190440034,Beauty,"3,408.51 EGP",4,06-23-2025,Credit Card,5,yes,
+1344,Khaled Saleh,41,null,khaled.saleh39@gmail.com,012-9750-8289,clothing,"$2,144.10",6,01/01/2024,Wallet,3,no,
+1228,Hassan Saleh,NaN,Mansura,hassan.saleh83@yahoo.com,010 728 2740,Electronics,2484.02,2,06/02/2025,Fawry,5,No,
+1020, Karim Samir  ,23,Alexandria,karim.samir9@yahoo.com,012 163 4388,Clothing,1194.74,6,05/06/2024,Credit Card,4,0,Customer called!!
+1365,NOUR ADEL,59,Gizah,nour.adel63@gmail.com,01024782157,clothing,-,-2,null,COD,5,No,gift
+1251,Hassan Adel,24,Tanta,hassan.adel67@yahoo.com,+201175082045,Sports,"$1,790.57",2,14/01/2024,credit card,-,No,
+1348,rania khalil,43,Mansoura,rania.khalil85@gmail.com,011 824 5081,Sports,681.48,1,09/06/2025,Wallet,4,No,N/A
+1125,YOUSSEF MOSTAFA,62,Cairo,youssef.mostafa50@yahoo.com,012 459 9946,Home,"$1,320.46",1,2024-01-02,Cash on Delivery,2,FALSE,urgent
+1337,ALI SAMIR,45,Luxor,ali.samir15@gmail.com,011 230 6134,Clothing,1156.58,1,2024-10-24,Credit Card,1,yes,
+1372, Laila Mostafa  ,53,Alexandria,laila.mostafa73@hotmail.com,012-8926-1748,BEAUTY,"4,649.55 EGP",2,2024-10-02,Credit Card,?,no,
+1270, Rania Khalil  ,58,Alexandria,rania.khalil7@yahoo.com,01092947099,Electronics,4871.93,2,-,Wallet,1,1,
+1313,hassan ibrahim,40, Cairo ,hassan.ibrahim36@gmail.com,012-2168-6902,HOME,"4,220.89 EGP",5,2025-07-13,COD,4,N,N/A
+1205, Mahmoud Ibrahim  ,63,Mansura,mahmoud.ibrahim79@gmail.com,+201183866174,beauty,1846.57,5,2025/01/28,Wallet,3,No,
+1160,Omar Hassan,38,Alexandria,omar.hassan47@gmail.com,011 893 6004,Clothing,"$3,575.39",6,03-22-2025,Wallet,-,No,
+1378,heba naguib,31,cairo,heba.naguib33@hotmail.com,012-3322-2134,Clothes,"$4,346.70",6,03-09-2025,COD,4,TRUE,gift
+1026,salma naguib,46,luxor,salma.naguib40@hotmail.com,012-8753-9698,ELECTRONICS,510.61 EGP,2,18/02/2025,null,4,yes,fragile  
+1238,Mona Ibrahim,44,Luxor,N/A,N/A,Sports,2471.61,2,29 Apr 2025,Fawry,1,TRUE,Customer called!!
+1209,Fatma Mostafa,63,Gizah,fatma.mostafa95@gmail.com,01092585240,Clothing,57.83 EGP,1,2025-04-21,Wallet,4,yes,urgent
+1392,ali saleh,62,Mansoura,none,+201116420202,Books,"$4,250.93",1,2025/01/17,Mobile Wallet,3,No,
+1084,Mona Hassan,-,Mansoura,mona.hassan38@gmail.com,+201152802529,Clothing,"2,721.81 EGP",1,2024/05/23,Credit Card,4,yes,Customer called!!
+1087,mona khalil,63,Alexandria,mona.khalil49@yahoo.com,011 468 9401,Books,4579.88,5,11-25-2024,wallet,4,No,
+1196,HEBA ADEL,61,Tanta,heba.adel45@gmail.com,-,ELECTRONICS,$607.02,4,03-09-2025,wallet,4,Yes,
+1005,nour ali,none,Mansoura,nour.ali33@hotmail.com,011 214 5808,Sports,364.46,4,2025/04/24,Wallet,3,FALSE,gift
+1264,YOUSSEF FOUAD,35,luxor,youssef.fouad31@gmail.com,011 575 8952,Home & Kitchen,3247.91,3,29 Aug 2024,FAWRY,4,N,
+1127,Mona Ibrahim,21,Mansoura,mona.ibrahim47@gmail.com,+201121761279,Sport,"2,770.83 EGP",4,2024-06-06,Wallet,3,N,gift
+1036,Karim Khalil,62,Mansoura,karim.khalil41@hotmail.com,+201182613940,Beauty,447.56,3,30 Jun 2025,?,2,TRUE,
+1088,NOUR HASSAN,NaN,tanta,nour.hassan26@yahoo.com,011 363 9005,sports,"2,916.76 EGP",4,29/10/2024,Fawry,NaN,No,
+1128, Mahmoud Samir  ,42,Alexandria,mahmoud.samir6@yahoo.com,+201172419022,Home,"4,433.19 EGP",3,10 Jul 2024,Credit card ,2,No,N/A
+1294,Nour Adel,23,luxor,nour.adel51@yahoo.com,01082611046,Sports,3339.29,4,31/01/2025,Cash on Delivery,N/A,1,N/A
+1042,Heba Ibrahim,49,Tanta,heba.ibrahim28@yahoo.com,NaN,Books,"$4,698.31",3,02-03-2024,Fawry,4,yes,
+1345,Nour Khalil,53,Alexandria,nour.khalil71@yahoo.com,012 185 5164,sports,"$1,827.37",2,2025-03-08,Cash on Delivery,3,1,N/A
+1324,Rania Khalil,28,Gizah,rania.khalil43@gmail.com,011 118 8354,Electronics,"$3,019.34",6,01/02/2025,Cash on Delivery,3,N,Customer called!!
+1297,FATMA KHALIL,33,Mansoura,null,+201184238655,Sports,3774.33,4,04-27-2024,Mobile Wallet,1,yes,Customer called!!
+1093,mahmoud khalil,-,luxor,mahmoud.khalil49@hotmail.com,01095080736,Clothes,"3,579.89 EGP",1,01/10/2024,Fawry,5,FALSE,
+1163,mohamed hassan,59,Giza,mohamed.hassan75@hotmail.com,012-7171-7201,Electronic,3533.49,5,10-07-2024,Wallet,N/A,No,
+1010,Hassan Naguib,36,Mansoura,hassan.naguib25@yahoo.com,011 158 1821,beauty,"$4,788.72",5,13/05/2025,fawry,3,1,
+1377,sara fouad,45,Alexandria,sara.fouad63@gmail.com,015 658 3551,Books,"$1,677.17",3,2024/12/16,Wallet,3,N,urgent
+1080,Mona Ali,48,Alexandria,mona.ali90@hotmail.com,012-4578-5054,Books,3751.29,5,17 Jan 2025,Wallet,?,0,
+1358, Youssef Naguib  ,,Cario,youssef.naguib69@hotmail.com,012-3094-4140,Sports,3114.1,3,30/04/2025,cash,5,FALSE,gift
+1326,Rania Hassan,60,ALEXANDRIA,rania.hassan42@gmail.com,-,beauty,"$3,496.58",2,2025/01/25,Fawry,,No,gift
+1235,HASSAN HASSAN,30,Cairo,hassan.hassan21@hotmail.com,012-6966-5670,clothing,3441.96,4,24/05/2025,cash on delivery,4,Yes,
+1082,mahmoud samir,21,القاهرة,mahmoud.samir99@hotmail.com,012 990 7184,Books,$207.09,4,03/07/2024,Mobile Wallet,2,N,
+1252,SALMA ADEL,37,Aswan,salma.adel23@hotmail.com,+201113860039,Home,$738.12,4,none,Fawry,5,No,fragile  
+1141,Sara Hassan,21,aswan,sara.hassan33@yahoo.com,012-1152-5933,Electronics,2113.04,4,2024/05/06,COD,3,TRUE,N/A
+1393,HASSAN HASSAN,25,Cairo,hassan.hassan90@gmail.com,010 426 3424,Home,421.46,3,01-23-2025,Fawry,4,N,fragile  
+1379, Omar Mostafa  ,40,Mansoura,omar.mostafa46@hotmail.com,012-1162-4253,Books,"$2,403.72",6,13 Jun 2024,fawry,5,Yes,Customer called!!
+1300, Ahmed Khalil  ,48,cairo,none,01082226781,Electronic,"3,379.90 EGP",4,23 Jul 2025,CC,5,TRUE,
+1027,Hassan Khalil,51,Tanta,hassan.khalil47@gmail.com,012-9751-3073,Home,4903.53,2,30/10/2024,Wallet,3,N,urgent
+1277,Laila Ali,25,Giza,laila.ali17@yahoo.com,010 601 8298,Books,4015.45,6,2024/11/13,fawry,4,yes,Customer called!!
+1162,MONA KHALIL,61,ALEXANDRIA,mona.khalil73@hotmail.com,+201174894729,Sports,744.83 EGP,2,2024/07/02,FAWRY,2,yes,fragile  
+1063,TAREK HASSAN,64,none,tarek.hassan10@hotmail.com,010 131 3339,Home,3093.51,4,2024-10-08,COD,1,No,
+1155,Ahmed Samir,41,tanta,ahmed.samir42@hotmail.com,+201122879054,Sports,2255.51,1,30/10/2024,Cash on Delivery,4,N,
+1154,Heba Samir,52,Mansoura,heba.samir47@yahoo.com,015 217 6668,electronics,"$1,779.54",2,12-05-2024,Credit Card,4,N,gift
+1373,KARIM FOUAD,65,Tanta,karim.fouad49@yahoo.com,01088699665,ELECTRONICS,"$2,535.78",2,2024/01/25,Fawry,2,No,
+1106, Karim Khalil  ,18,Luxor,sara.gmail.com,012-4470-9105,Beauty,$511.05,4,2025-01-01,Wallet,3,0,fragile  
+1018,LAILA MOSTAFA,30,Alexandria,laila.mostafa54@hotmail.com,01087265240,Electronics,$278.76,4,15 Mar 2024,cash on delivery,2,TRUE,
+1237,NOUR NAGUIB,?,Alexandria,nour.naguib17@gmail.com,015 972 8627,Beauty,"1,825.02 EGP",3,07-26-2024,Credit Card,4,No,N/A
+1178, Sara Adel  ,61,Tanta,sara.adel37@yahoo.com,015 490 5694,Clothing,"2,905.43 EGP",6,05/07/2025,Cash on Delivery,3,No,urgent
+1385,LAILA MOSTAFA,52,Luxor ,laila.mostafa36@gmail.com,01029296419,Clothing,"3,645.25 EGP",4,2024-09-23,credit card,3,yes,fragile  
+1223,fatma hassan,36,Mansoura,fatma.hassan17@hotmail.com,+201146939015,electronics,$677.77,1,10-11-2024,Wallet,4,no,
+1230,Mahmoud Naguib,36,Aswan,mahmoud.naguib39@hotmail.com,+201124330160,Clothing,$924.26,1,?,Cash on Delivery,3,Yes,N/A
+1201, Tarek Saleh  ,27,Luxor,tarek.saleh79@yahoo.com,012-4783-4804,Clothing,$578.52,2,2024/01/27,Fawry,2,FALSE,
+1068, Mostafa Khalil  ,27, Alexandria,mostafa.khalil6@gmail.com,012 732 1496,beauty,"3,141.17 EGP",500,2024/12/11,wallet,3,yes,Customer called!!
+1327, Omar Mostafa  ,33,Mansoura,omar.mostafa58@hotmail.com,+201146488536,Clothing,3048.96,3,2024/10/19,Credit Card,4,FALSE,Customer called!!
+1187,KARIM SAMIR,59,Luxor,karim.samir89@yahoo.com,012-5107-1646,Home & Kitchen,"$4,037.35",4,2024-07-16,cash on delivery,N/A,FALSE,N/A
+1282,AHMED NAGUIB,55,Alexandria,ahmed.naguib2@gmail.com,011 137 8987,Clothing,1509.42,4,02-22-2024,Mobile Wallet,4,1,N/A
+1184,AHMED NAGUIB,31,Giza,ahmed.naguib90@gmail.com,01054325223,Book,"$1,592.30",4,15 Jan 2025,wallet,3,FALSE,
+1013,Hassan Samir,49,Giza,hassan.samir1@yahoo.com,01027558317,Electronics,$506.88,4,2024-10-10,Cash on Delivery,2,No,
+1279,Mahmoud Hassan,50,Cairo,mahmoud.hassan33@yahoo.com,+201188593591,Sports,2153.32,1,2025/04/20,Cash on Delivery,null,TRUE,fragile  
+1359,nour saleh,20,tanta,nour.saleh64@hotmail.com,012 868 9344,electronics,3982.23,6,13 Jul 2024,Cash on Delivery,3,TRUE,N/A
+1232,ahmed ali,none,القاهرة,ahmed.ali22@hotmail.com,010 164 4320,Home,4112.66,1,2025/04/12,Credit card ,5,N,
+1047,RANIA ADEL,25,Luxor,rania.adel79@hotmail.com,012-1430-5381,Home,2891.8,4,2025/07/28,Fawry,5,no,
+1133,mohamed mostafa,20,Mansura,mohamed.mostafa48@yahoo.com,010 481 9008,Electronics,"4,594.25 EGP",6,07-22-2024,Credit Card,3,FALSE,Customer called!!
+1278,mahmoud hassan,50,Giza,mahmoud.hassan68@hotmail.com,012 547 2297,Books,"$3,398.38",6,-,Credit Card,5,No,N/A
+1342,hassan naguib,41,Cairo,hassan.naguib29@gmail.com,015 913 3967,electronics,627.31,1,NaN,Fawry,4,N,
+1102, Omar Samir  ,28,Mansoura,omar.samir7@yahoo.com,012 675 9281,Home,744.47,3,2025/04/06,cash on delivery,4,N,
+1123, Nour Adel  ,63,Alexandria,nour.adel15@hotmail.com,012-7120-7481,HOME,344.8,NaN,23/08/2025,Wallet,3,No,
+1029,fatma ibrahim,31,Aswan,fatma.ibrahim23@hotmail.com,012-1043-7693,Clothing,"1,360.00 EGP",1,09/06/2024,Wallet,1,No,
+1166,Hassan Ali,64,aswan,hassan.ali49@yahoo.com,01027745355,Home,4615.64,5,11/03/2024,Credit Card,3,FALSE,Customer called!!
+1341,OMAR HASSAN,24,N/A,omar.hassan84@yahoo.com,+201168226527,Books,939.18 EGP,1,2024/04/30,Credit Card,4,FALSE,Customer called!!
+1014,laila adel,20,Gizah,laila.adel72@yahoo.com,+201130743797,clothing,"$3,426.23",6,04-15-2024,Fawry,5,TRUE,fragile  
+1363,HEBA MOSTAFA,47,Aswan,heba.mostafa78@gmail.com,+201161538339,Books,546.16 EGP,5,2024-05-20,wallet,4,No,
+1030, Heba Ibrahim  ,52,alex,heba.ibrahim8@gmail.com,015 579 5982,Beauty,787.5,3,2024-05-25,Credit Card,5,1,
+1316,Mostafa Khalil,150,Tanta,mostafa.khalil69@yahoo.com,01035278389,Books,"$4,901.85",2,2025-02-04,Wallet,3,No,
+1120,Omar Saleh,35,Mansoura,omar.saleh64@yahoo.com,011 492 3248,Clothing,$221.51,5,09-08-2024,CC,4,N,fragile  
+1376, Mohamed Khalil  ,59,Cairo,mohamed.khalil20@gmail.com,015 328 7360,Beauty,3963.42,6,2025-07-28,N/A,2,no,
+1383,MONA HASSAN,44,Cairo,mona.hassan41@yahoo.com,01032872143,electronics,-300,3,2025/06/15,Mobile Wallet,4,No,
+1222,Mostafa Saleh,57,Cairo,mostafa.saleh66@yahoo.com,01087036318,Home,"2,698.41 EGP",1,25 Apr 2025,Mobile Wallet,5,0,gift
+1104,tarek saleh,40,Luxor,NaN,+201191907952,ELECTRONICS,"2,223.40 EGP",1,30/08/2024,wallet,1,0,gift
+1224, Nour Khalil  ,27,Luxor,nour.khalil85@yahoo.com,01095573823,Books,3776.17,4,27/01/2025,Cash on Delivery,1,No,Customer called!!
+1239, Salma Ibrahim  ,46,Mansoura,salma.ibrahim17@yahoo.com,+201142086411,CLOTHING ,461.3,1,20/02/2025,Credit Card,4,0,urgent
+1185,ALI NAGUIB,null,aswan,ali.naguib86@gmail.com,01073461570,Electronics,"1,035.94 EGP",6,2024/04/06,Cash on Delivery,5,FALSE,
+1067,MOSTAFA ALI,26,Mansoura,mostafa.ali20@yahoo.com,01032099899,Sports,"4,558.03 EGP",1,2024/05/07,Credit Card,5,No,
+1081,omar adel,51,Mansoura,omar.adel12@hotmail.com,012 567 1945,Electronics,3417.46,6,20 Aug 2025,Mobile Wallet,5,Yes,urgent
+1072,nour mostafa,56,Tanta,nour.mostafa92@yahoo.com,+201179703656,Books,"2,525.39 EGP",1,09/02/2024,Wallet,4,0,gift
+1306,mostafa mostafa,54,Alexandria,mostafa.mostafa93@hotmail.com,012-4983-3255,Beauty,"2,569.05 EGP",3,,Fawry,4,1,gift
+1334,Tarek Fouad,64,Luxor,tarek.fouad90@gmail.com,01059449823,Clothing,177.12 EGP,1,06-27-2025,Fawry,5,Yes,fragile  
+1191,mostafa ali,53,Aswan,mostafa.ali87@yahoo.com,012-2705-3733,Sports,2105.16,1,08-13-2025,Credit Card,3,1,Customer called!!
+1109,FATMA ALI,46,Gizah,-,010 870 3017,BEAUTY,"1,104.62 EGP",6,04 Jun 2024,Credit card ,5,TRUE,gift
+1400,Salma Saleh,41,?,salma.saleh85@hotmail.com,null,Electronics,4147.36,3,2024/12/07,Wallet,3,no,Customer called!!
+1335,ALI KHALIL,23,Giza,ali.khalil38@hotmail.com,01036182785,Books,4698.47,4,12 Apr 2024,Wallet,5,N,
+1002,HASSAN ALI,31,luxor,hassan.ali45@hotmail.com,012-8527-9785,Home,?,4,04-09-2024,Wallet,5,0,
+1192,HEBA ADEL,?,alexandria ,heba.adel47@yahoo.com,+201163296593,Sport,"2,750.85 EGP",4,07-17-2025,Credit card ,5,Yes,fragile  
+1153,hassan samir,34,Alexandria,none,015 892 5934,Clothing,2940.73,3,01-06-2024,COD,3,no,
+1234,NOUR MOSTAFA,27,aswan,nour.mostafa79@hotmail.com,012-3949-9190,Home,"$2,639.28",4,01/09/2024,Credit Card,4,Yes,
+1333, Ahmed Khalil  ,20,Cairo,ahmed.khalil67@yahoo.com,012-6521-8036,Clothing,2635.56,1,2025/01/19,Cash on Delivery,4,no,
+1085, Rania Naguib  ,21,Giza,rania.naguib53@gmail.com,012-4012-9813,Beauty,3373.15,5,22 Nov 2024,Mobile Wallet,3,FALSE,gift
+1150,karim samir,58,Alexandria,karim.samir87@gmail.com,012-9255-9888,Clothing,1088.08,6,10-24-2024,NaN,3,FALSE,
+1152,ALI FOUAD,44,Luxor,ali.fouad96@yahoo.com,+201193290380,beauty,1597.64,5,2024-02-25,Wallet,4,yes,Customer called!!
+1136,KARIM ALI,64,Cairo,karim.ali52@yahoo.com,010 802 9759,Beauty,"2,512.00 EGP",3,22 Sep 2024,Cash on Delivery,5,1,fragile  
+1174,Sara Ibrahim,61,Aswan,sara.ibrahim48@hotmail.com,012-5501-9041,Books,"$3,088.44",5,null,N/A,4,No,Customer called!!
+1368, Dina Samir  ,48,Alexandria,dina.samir38@yahoo.com,01029346175,Electronics,$344.91,3,04/01/2025,Cash on Delivery,3,No,
+1134,mohamed ali,54,-,mohamed.ali35@hotmail.com,01064963125,Clothing,"4,292.70 EGP",6,18/08/2024,-,4,yes,
+1388, Omar Mostafa  ,61,Luxor,omar.mostafa99@hotmail.com,012-4372-8992,Beauty,1441.36,4,2024/04/15,Fawry,5,0,
+1395,Tarek Ali,50,Cairo,-,012-4079-2124,Clothes,1132.98,3,29 Jan 2025,cash on delivery,-,No,fragile  
+1059,MONA SALEH,25,Cairo,mona.saleh15@yahoo.com,012-1269-9443,CLOTHING ,"2,128.14 EGP",5,2025-04-13,Cash on Delivery,,Yes,urgent
+1286,Khaled Ibrahim,28,ASWAN,khaled.ibrahim91@yahoo.com,01077900294,ELECTRONICS,4360.8,3,06-09-2024,Wallet,4,FALSE,urgent
+1229,ahmed hassan,60,Mansura,user@.com,01075857881,Home,800.46,3,2025/02/04,COD,4,FALSE,urgent
+1107,AHMED IBRAHIM,28,NaN,ahmed.ibrahim84@yahoo.com,+201146778269,books,53.35 EGP,4,26/07/2024,Wallet,NaN,TRUE,
+1202, Omar Mostafa  ,32,Cairo,omar.mostafa29@hotmail.com,012-2083-3901,Books,3834.47,1,03 Oct 2024,Fawry,4,No,Customer called!!
+1381,Heba Fouad,40,Giza,heba.fouad59@yahoo.com,012 490 5669,sports,2157.95,3,26/04/2024,Credit Card,5,0,N/A
+1361, Fatma Adel  ,38,Cairo,fatma.adel79@yahoo.com,+201117685767,beauty,4425.73,3,16 May 2024,Fawry,5,Yes,gift
+1199, Dina Adel  ,40,aswan,dina.adel81@yahoo.com,+201113954845,Home,"$1,219.21",5,2024-10-09,FAWRY,2,TRUE,urgent
+1022,Karim Mostafa,47,Giza,karim.mostafa33@gmail.com,01073123515,Home & Kitchen,"$3,818.09",4,11 Oct 2024,Fawry,1,No,
+1028, Omar Hassan  ,34,Luxor,omar.hassan10@hotmail.com,01094482772,Books,$614.73,1,14 Feb 2025,Cash on Delivery,3,TRUE,
+1276,FATMA HASSAN,39,Cario,fatma.hassan17@gmail.com,N/A,beauty,"3,130.71 EGP",4,2024/11/28,Cash on Delivery,2,TRUE,Customer called!!
+1204,LAILA KHALIL,21,Aswan,laila.khalil93@hotmail.com,-,Sport,4523.19,4,2025-04-07,Fawry,1,No,
+1235,Hassan Hassan,30,Cairo,hassan.hassan21@hotmail.com,012-6966-5670,clothing,3441.96,4,24/05/2025,cash on delivery,4,Yes,
+1137,Nour Saleh,?,Luxor,nour.saleh29@yahoo.com,011 366 5817,sports,3826.45,2,2024-12-09,fawry,2,FALSE,Customer called!!
+1214,Rania Adel,35, Alexandria,rania.adel10@yahoo.com,015 233 1475,BEAUTY,4029.81,5,07/09/2024,fawry,1,No,
+1336,Mona Mostafa,28,Luxor,mona.mostafa21@yahoo.com,+201147628993,beauty,3514.55,1,2025-03-21,wallet,,N,Customer called!!
+1044,Nour Fouad,51,Cairo,nour.fouad76@gmail.com,01070667140,Beauty,364.61,4,2025/01/05,Wallet,4,TRUE,urgent
+1347,hassan hassan,?,Mansoura,hassan.hassan68@hotmail.com,012-9021-2565,Clothing,"$1,924.23",1,06/05/2024,Wallet,2,Yes,N/A
+1097, Heba Fouad  ,22,Mansoura,heba.fouad89@yahoo.com,012-6890-9796,Sport,2422.21,4,2025/07/01,Mobile Wallet,3,N,gift
+1311,Salma Khalil,22,ALEXANDRIA,salma.khalil64@hotmail.com,012 832 9106,Sports,1971.17,6,none,Credit Card,5,0,gift
+1106, Karim Khalil  ,18,Luxor,sara.gmail.com,012-4470-9105,Beauty,$511.05,4,2025-01-01,Wallet,3,0,fragile  
+1017,omar khalil,54,Giza,omar.khalil27@yahoo.com,012 552 4501,Books,2762.29,1,11-07-2024,?,3,N,
+1177,rania adel,49,Giza,rania.adel13@hotmail.com,012 959 2577,Home,"2,832.59 EGP",5,18 Feb 2024,Fawry,,yes,Customer called!!
+1304,Sara Naguib,33,Giza,sara.naguib77@hotmail.com,015 162 1546,Electronics,"$4,117.09",5,2024-08-30,Credit Card,5,No,Customer called!!
+1262,Salma Ibrahim,52,Alexandria,salma.ibrahim29@hotmail.com,011 168 9700,Home & Kitchen,"1,362.52 EGP",3,10 Aug 2025,wallet,4,No,urgent
+1176,YOUSSEF FOUAD,62,Luxor,youssef.fouad24@hotmail.com,011 923 4863,Home & Kitchen,"$1,857.14",4,13 Oct 2024,Cash on Delivery,none,No,N/A
+1346,fatma ali,44,Luxor,fatma.ali78@gmail.com,015 800 9984,Clothing,1615.98,4,2025-01-23,Cash on Delivery,2,no,
+1321,Omar Ali,19,Tanta,omar.ali22@gmail.com,01011504663,Electronics,927.32,1,01 Jul 2025,Fawry,3,No,gift
+1194, Dina Fouad  ,44,Luxor,dina.fouad7@yahoo.com,+201115527388,Electronics,4355.44,2,null,Credit card ,3,Yes,gift
+1241,rania ibrahim,53,ASWAN,rania.ibrahim15@hotmail.com,011 461 5380,Clothing,735.11,3,2024/09/01,Credit Card,,Yes,N/A
+1351,rania ibrahim,36,giza,-,01050912220,books,1503.05,none,2024/01/03,Fawry,5,Yes,
+1292,khaled ibrahim,62,-,khaled.ibrahim48@gmail.com,01090745413,Book,2393.11,6,2024/06/09,Wallet,3,No,
+1302,Mahmoud Ali,34,Tanta,mahmoud.ali87@gmail.com,012-5143-8437,Clothing,"4,410.97 EGP",6,07/10/2024,none,4,TRUE,
+1186,Heba Adel,null,ALEXANDRIA,heba.adel6@hotmail.com,015 354 3583,Home,"2,944.25 EGP",4,2024-09-05,cash on delivery,2,N,
+1031, Mahmoud Mostafa  ,61,luxor,mahmoud.mostafa6@gmail.com,010 699 8141,Sports,"2,956.26 EGP",1,2024/10/02,Fawry,2,FALSE,fragile  
+1305, Mahmoud Ibrahim  ,61,Cairo,mahmoud.ibrahim80@yahoo.com,01041287760,Sports,308.41,4,2025-02-15,Cash on Delivery,5,N,
+1035,Mona Khalil,42,Alexandria,mona.khalil50@hotmail.com,01097512508,Books,266.05,6,29 Apr 2025,cash,4,No,gift
+1366,fatma saleh,40, Cairo ,fatma.saleh92@gmail.com,010 499 8318,Home,4585.36,6,01-12-2025,Fawry,-,No,urgent
+1058,DINA MOSTAFA,42,Cairo,dina.mostafa19@gmail.com,01015140967,Home,"$1,161.47",3,04-11-2024,none,0,yes,gift
+1248,salma samir,39,Cairo,salma.samir82@yahoo.com,012-8571-3243,Sport,3792.76,1,07 Jan 2024,?,3,FALSE,
+1260,LAILA ADEL,21, Cairo ,laila.adel4@hotmail.com,012-2594-8014,Sports,$273.34,3,2024/12/23,none,1,N,
+1016, Sara Fouad  ,54,alexandria ,sara.fouad69@hotmail.com,01036445607,Home,269.71 EGP,4,2024/01/02,Credit Card,5,1,Customer called!!
+1257, Salma Saleh  ,63,luxor,salma.saleh61@hotmail.com,01090955493,sports,2988.57,6,02-13-2025,Credit Card,2,yes,
+1076,Hassan Samir,62,Giza,hassan.samir32@gmail.com,012-4697-4814,Clothing,$590.67,6,23/08/2025,Cash on Delivery,4,No,fragile  
+1181,mostafa fouad,51,aswan,mostafa.fouad30@gmail.com,01069305486,Beauty,"$2,692.23",3,2025/05/08,Cash on Delivery,1,1,fragile  
+1227,mahmoud khalil,26,mansoura,mahmoud.khalil15@hotmail.com,012-5826-8650,beauty,"3,831.10 EGP",6,02/08/2025,Mobile Wallet,4,N,
+1054,ALI FOUAD,39,Aswan,ali.fouad43@gmail.com,+201161883769,Sports,309.21,,2024-12-08,credit card,5,yes,urgent
+1397, Fatma Saleh  ,51,tanta,fatma.saleh15@gmail.com,01025460259,Books,2617.16,1,21/02/2024,CC,5,No,
+1375, Dina Ibrahim  ,N/A,alexandria ,dina.ibrahim98@yahoo.com,015 472 5696,Beauty,-,3,04-29-2025,COD,4,0,gift
+1258,Omar Fouad,56,Aswan,omar.fouad85@hotmail.com,012-4308-5809,Home,806.05,5,2024-04-08,Cash on Delivery,3,no,urgent
+1188,OMAR IBRAHIM,51,Alexandria,omar.ibrahim59@gmail.com,+201177908497,Books,1513.58,3,07-08-2025,COD,5,No,urgent
+1012,Mahmoud Samir,31,Tanta,mahmoud.samir48@yahoo.com,01031172421,Home & Kitchen,705.66,3,11/03/2024,Cash on Delivery,3,yes,
+1189,Heba Adel,25,القاهرة,heba.adel5@gmail.com,015 684 7366,Sports,"3,311.51 EGP",1,12/05/2024,Wallet,none,0,
+1060,mahmoud samir,,Tanta,mahmoud.samir82@yahoo.com,01060103798,Sports,2793.05,4,2025-04-26,wallet,5,No,fragile  
+1041, Ahmed Khalil  ,53,Giza,ahmed.khalil84@yahoo.com,01025659979,Sports,"$1,145.77",1,04-20-2025,Fawry,4,1,
+1380,Hassan Samir,64, Cairo ,hassan.samir13@gmail.com,+201135186888,Book,"$4,719.45",?,2025/04/05,Cash on Delivery,5,No,fragile  
+1045, Fatma Ali  ,22, Alexandria,fatma.ali49@hotmail.com,+201149580505,Home,"$3,140.37",N/A,07-15-2025,Credit Card,4,FALSE,urgent
+1356,mona mostafa,39,Mansura,mona.mostafa15@yahoo.com,+201147655580,books,353.68,4,02-22-2024,Wallet,1,Yes,fragile  
+1104,tarek saleh,40,Luxor,NaN,+201191907952,ELECTRONICS,"2,223.40 EGP",1,30/08/2024,wallet,1,0,gift
+1310,Khaled Khalil,45,Aswan,khaled.khalil69@yahoo.com,012-8037-5006,electronics,$636.54,2,13/07/2024,cash,3,no,
+1341,OMAR HASSAN,24,N/A,omar.hassan84@yahoo.com,+201168226527,Books,939.18 EGP,1,2024/04/30,Credit Card,4,FALSE,Customer called!!
+1147,khaled samir,31,Aswan,khaled.samir29@yahoo.com,+201185182173,Beauty,"2,308.23 EGP",3,2025-01-07,Credit Card,1,no,
+1161,HASSAN IBRAHIM,64,Cairo,hassan.ibrahim75@yahoo.com,012-1600-5269,Electronics,"4,255.46 EGP",6,none,Credit Card,4,No,
+1025,Hassan Naguib,33,Luxor,hassan.naguib4@yahoo.com,012-8988-4475,books,"2,870.76 EGP",6,01-23-2025,Wallet,5,0,
+1355,Heba Mostafa,48,Aswan,heba.mostafa76@hotmail.com,?,electronics,3520.67,5,04/07/2024,Cash on Delivery,4,No,gift
+1007,RANIA ALI,34,Tanta,rania.ali92@yahoo.com,+201197225156,sports,2144.53,2,06/07/2025,Fawry,2,no,
+1043,MOHAMED ADEL,33,ALEXANDRIA,mohamed.adel28@gmail.com,012-1046-5542,Sports,1065.77,5,2024/07/31,Wallet,3,No,
+1326,Rania Hassan,60,ALEXANDRIA,rania.hassan42@gmail.com,-,beauty,"$3,496.58",2,2025/01/25,Fawry,,No,gift
+1256,HEBA MOSTAFA,N/A,luxor,heba.mostafa87@yahoo.com,015 222 3348,Book,4698.46,3,2024-07-02,cash on delivery,4,0,Customer called!!
+1116,Sara Mostafa,51,Alexandria,sara.mostafa12@gmail.com,01041067722,books,2485.54,1,05-25-2024,fawry,3,No,urgent
+1193,dina ali,26,Gizah,dina.ali39@gmail.com,+201163660012,Home,4453.65,2,08-26-2024,wallet,4,0,urgent
+1092, Rania Adel  ,42,Luxor,rania.adel96@yahoo.com,012-8161-4803,Beauty,null,6,2024/03/21,Fawry,1,N,Customer called!!
+1296,SARA IBRAHIM,52,Alexandria,sara.ibrahim40@yahoo.com,012-6329-3973,Home & Kitchen,762.97 EGP,3,01/04/2024,Fawry,4,No,
+1090, Khaled Ali  ,33,Alexandria,khaled.ali11@yahoo.com,01064496076,sports,2655.96,3,30 Sep 2024,Wallet,2,TRUE,Customer called!!
+1340,LAILA SALEH,62,Alexandria,laila.saleh42@hotmail.com,012-8496-3681,beauty,"$4,288.45",4,09/04/2024,Cash on Delivery,-,No,Customer called!!
+1287,Heba Adel,58,ASWAN,heba.adel18@yahoo.com,+201164936566,Clothing,800.48,5,07/03/2025,fawry,1,1,Customer called!!
+1339, Salma Saleh  ,N/A,Mansoura,salma.saleh94@gmail.com,01017055329,Electronics,"4,906.66 EGP",3,05/06/2024,Wallet,3,TRUE,N/A
+1143,Hassan Naguib,21, Cairo ,hassan.naguib55@hotmail.com,012-1751-1158,Clothes,"4,377.00 EGP",3,01-03-2025,Fawry,5,FALSE,gift
+1118,YOUSSEF ADEL,27,cairo,youssef.adel7@hotmail.com,+201144918995,Beauty,1278.68,3,2025/02/09,COD,2,FALSE,Customer called!!
+1046,hassan adel,27,aswan,hassan.adel13@hotmail.com,015 520 6793,Book,382.31 EGP,1,05 Apr 2024,wallet,1,yes,urgent
+1052, Tarek Khalil  ,55,Mansoura,tarek.khalil20@yahoo.com,012-8245-5961,BEAUTY,"4,624.56 EGP",5,11-26-2024,Wallet,3,No,
+1170,fatma samir,36,aswan,fatma.samir2@gmail.com,+201179545356,Sports,334.44,2,21 May 2025,N/A,3,N,Customer called!!
+1299, Mostafa Samir  ,36, Cairo ,mostafa.samir12@yahoo.com,012-5578-8077,Clothes,"3,708.96 EGP",5,03-12-2024,Fawry,5,N,
+1111,Ahmed Saleh,31,Cairo,ahmed.saleh81@hotmail.com,+201165758338,electronics,"4,745.97 EGP",NaN,06-02-2025,Fawry,5,No,
+1251,Hassan Adel,24,Tanta,hassan.adel67@yahoo.com,+201175082045,Sports,"$1,790.57",2,14/01/2024,credit card,-,No,
+1004,ali saleh,22,ALEXANDRIA,ali.saleh51@hotmail.com,012-5339-3287,Sports,4388.02,3,05 Aug 2024,Fawry,4,0,
+1086,Youssef Adel,59,CAIRO,youssef.adel7@yahoo.com,010 923 4555,Books,"4,243.31 EGP",1,02/07/2025,Cash on Delivery,4,no,fragile  
+1396, Khaled Naguib  ,40,Giza,khaled.naguib28@gmail.com,012-8059-9321,Electronics,?,1,28 Dec 2024,Mobile Wallet,5,No,
+1244, Mona Naguib  ,41,giza,mona.naguib80@gmail.com,01081848989,ELECTRONICS,$784.27,3,11/04/2025,Mobile Wallet,1,no,urgent
+1298, Tarek Ibrahim  ,58,tanta,tarek.ibrahim22@gmail.com,012-8401-1684,Clothing,3925.26,2,2025/01/17,Cash on Delivery,3,Yes,
+1312, Heba Fouad  ,54, Alexandria,heba.fouad38@yahoo.com,012 624 6511,Home & Kitchen,1309.92,1,2024-05-17,fawry,4,FALSE,
+1332,Omar Mostafa,21,Aswan,none,01093808429,Clothing,"4,055.43 EGP",2,22 Sep 2024,Wallet,5,No,gift
+1275,hassan khalil,60,tanta,hassan.khalil24@yahoo.com,01020312681,Clothing,2938.56,NaN,2025/06/22,Wallet,4,no,gift
+1061,salma ali,26,cairo,salma.ali26@gmail.com,012 934 9897,Beauty,"$3,892.14",4,02-07-2024,Fawry,5,Yes,urgent
+1122,Mostafa Fouad,40,luxor,mostafa.fouad76@gmail.com,+201186188876,Clothes,921.7,5,11-21-2024,wallet,4,Yes,
+1340,LAILA SALEH,62,Alexandria,laila.saleh42@hotmail.com,012-8496-3681,beauty,"$4,288.45",4,09/04/2024,Cash on Delivery,-,No,Customer called!!
+1048, Mahmoud Samir  ,?,Mansoura,mahmoud.samir93@yahoo.com,?,Books,2295.55,2,-,FAWRY,5,FALSE,
+1108,NOUR KHALIL,32,tanta,nour.khalil55@hotmail.com,01027740248,Beauty,"2,253.08 EGP",1,2024-12-17,Credit Card,5,no,
+1399,hassan ibrahim,28,Aswan,hassan.ibrahim63@gmail.com,?,Electronic,2990.33,4,2025-08-20,cash,null,No,gift
+1130,Fatma Saleh,38,Aswan,fatma.saleh42@yahoo.com,+201171492815,Electronic,999999,5,2025/02/10,cash on delivery,3,0,gift
+1062,heba fouad,65,null,heba.fouad48@hotmail.com,012-7955-2293,Book,1728.23,2,-,Credit Card,5,No,urgent
+1210,karim fouad,64,Tanta,karim.fouad44@hotmail.com,012-1582-3224,Sports,4802.56,2,07-17-2024,FAWRY,4,TRUE,urgent
+1006,Khaled Khalil,30,Alexandria,khaled.khalil77@yahoo.com,+201112614124,Home,3824.43,5,2025-06-27,fawry,2,No,fragile  
+1132,NOUR SALEH,65,Mansoura,nour.saleh57@gmail.com,01064649480,Home,1383.63,4,01/04/2024,FAWRY,5,1,
+1019, Sara Naguib  ,26,-,sara.naguib79@hotmail.com,010 861 8777,books,"3,354.51 EGP",5,20 Nov 2024,CC,5,No,urgent
+1328,HEBA IBRAHIM,37,tanta,heba.ibrahim49@yahoo.com,+201170881578,Sports,$806.35,6,06-28-2024,Fawry,4,No,urgent
+1374, Karim Saleh  ,41,tanta,karim.saleh27@hotmail.com,+201120066099,Book,248.06,6,31/01/2025,Credit Card,5,1,urgent
+1112,laila fouad,64,luxor,laila.fouad59@hotmail.com,01091716102,Clothing,336.63 EGP,1,2025-03-20,Credit Card,10,FALSE,
+1110,youssef samir,56,Tanta,youssef.samir64@yahoo.com,+201142357445,Clothes,3751.83,3,25/02/2024,Credit Card,4,0,
+1114, Ali Ali  ,29,Luxor ,ali.ali42@gmail.com,01065869014,Electronics,2786.68,6,05/03/2025,wallet,3,No,N/A
+1070, Karim Khalil  ,64,Giza,karim.khalil64@yahoo.com,012-2475-7442,Clothing,"3,827.45 EGP",4,11 Jun 2025,Cash on Delivery,1,Yes,
+1226,Khaled Adel,61,aswan,khaled.adel2@yahoo.com,012-2702-8306,Clothing,1600.69,1,2024-01-09,Fawry,4,Yes,
+1281,Laila Ibrahim,26,ALEXANDRIA,laila.ibrahim27@yahoo.com,010 188 5930,Electronics,994.47,1,2024-07-11,wallet,3,FALSE,fragile  
+1303,Mona Hassan,35,Mansura,mona.hassan43@gmail.com,+201113405363,Sports,999999,1,05/02/2025,Cash on Delivery,5,yes,
+1038,omar ibrahim,46,Gizah,omar.ibrahim39@gmail.com,012-2747-4886,Sports,1530.81,4,,,5,Yes,fragile  
+1274,RANIA NAGUIB,21,alex,rania.naguib34@gmail.com,015 552 6841,Clothes,320.11,2,06 Feb 2024,Cash on Delivery,4,FALSE,N/A
+1032,LAILA FOUAD,NaN,القاهرة,laila.fouad99@yahoo.com,012-9889-8569,Book,485.9,3,2024-11-27,Cash on Delivery,4,N,fragile  
+1240,Tarek Hassan,58, Cairo ,tarek.hassan38@yahoo.com,01046210517,Books,"4,472.50 EGP",3,2025-06-27,FAWRY,3,N,
+1031, MAHMOUD MOSTAFA  ,61,luxor,mahmoud.mostafa6@gmail.com,010 699 8141,Sports,"2,956.26 EGP",1,2024/10/02,Fawry,2,FALSE,fragile  
+1023,Tarek Saleh,41,Alexandria,tarek.saleh40@gmail.com,01087669750,Sports,"3,055.88 EGP",6,27/04/2024,Cash on Delivery,4,No,Customer called!!
+1211,DINA IBRAHIM,27,GIZA,dina.ibrahim74@hotmail.com,012-2914-6050,Electronic,1728.8,4,01/07/2025,Wallet,4,No,
+1119, Dina Ibrahim  ,55,Tanta,dina.ibrahim26@hotmail.com,01069516344,Home,4591.27,1000,2024-01-23,credit card,3,0,
+1071,SARA FOUAD,26,Giza,sara.fouad52@gmail.com,011 175 7329,Beauty,1860.6,4,2025-01-09,Fawry,3,yes,urgent
+1325,mona khalil,23,Cairo,mona.khalil49@gmail.com,012-4900-8270,CLOTHING ,1903.89,3,25/07/2024,FAWRY,1,1,
+1053,Fatma Khalil,-,Mansura,fatma.khalil74@hotmail.com,01035265073,Books,"$2,922.63",6,12 Feb 2024,Credit card ,5,No,gift
+1040, Omar Saleh  ,48,Luxor,omar.saleh10@gmail.com,01040281491,Home,"3,745.47 EGP",3,27 Apr 2024,Mobile Wallet,4,no,fragile  
+1387, Ahmed Samir  ,50,Luxor,none,+201139495837,Clothing,"1,120.72 EGP",3,27/04/2024,Cash on Delivery,2,no,gift
+1288, Mohamed Ali  ,54,Cairo,mohamed.ali54@yahoo.com,+201150845544,Beauty,"$4,901.23",6,06-16-2025,FAWRY,4,FALSE,gift
+1221,HEBA SAMIR,54,Giza,heba.samir15@hotmail.com,01074630252,Electronics,4892.26,5,05-09-2025,Credit Card,3,0,N/A
+1117, Ali Adel  ,38,mansoura,ali.adel14@gmail.com,012-8365-8635,HOME,"1,206.38 EGP",2,2024/05/19,Wallet,4,FALSE,
+1253,Heba Hassan,30, Cairo ,heba.hassan16@yahoo.com,+201118891570,Electronics,"3,975.62 EGP",5,01 Mar 2024,Fawry,4,No,N/A
+1171,dina fouad,43,tanta,dina.fouad71@yahoo.com,011 331 4187,Clothing,2612.83,-,2024-03-11,Fawry,4,0,
+1273,salma adel,47,Alexandria,salma.adel34@gmail.com,011 865 6907,ELECTRONICS,"1,620.72 EGP",5,?,Cash on Delivery,5,yes,
+1360,Tarek Samir,63,Aswan,tarek.samir71@gmail.com,+201140055302,sports,"1,331.23 EGP",NaN,10-30-2024,Mobile Wallet,5,No,urgent
+1320, Hassan Mostafa  ,50,Cairo,hassan.mostafa44@hotmail.com,+201136092407,books,182.25,6,17 Apr 2025,Credit Card,5,N,gift
+1323,fatma mostafa,52,mansoura,fatma.mostafa42@gmail.com,+201163974248,Books,647.98 EGP,2,04-18-2024,Credit Card,2,N,
+1173,hassan mostafa,36,CAIRO,hassan.mostafa23@yahoo.com,010 864 4115,Books,"$3,384.80",3,2024/03/18,Cash on Delivery,4,No,
+1024, Dina Ibrahim  ,50,Aswan,dina.ibrahim56@yahoo.com,012-3506-8135,Home,112.63,4,2025-05-16,fawry,3,FALSE,
+1167,khaled fouad,41,luxor,khaled.fouad99@yahoo.com,+201189060695,Electronics,3503.33,4,22 Aug 2024,Credit Card,2,yes,Customer called!!
+1357,DINA ADEL,37,Cairo,dina.adel43@yahoo.com,+201189042306,Electronics,3361.29,6,19/07/2025,Wallet,4,No,
+1101, Mostafa Ibrahim  ,40,Giza,mostafa.ibrahim76@gmail.com,012-2931-4908,Books,3105.95,6,2024/10/31,wallet,3,1,N/A
+1242,RANIA SALEH,46,Tanta,rania.saleh59@gmail.com,012-3929-5724,Home,4009.52,6,08/03/2024,cash on delivery,2,No,N/A
+1195, Ali Ali  ,26,Giza,ali.ali52@yahoo.com,010 880 3209,ELECTRONICS,2405.48,6,2024/02/20,Wallet,3,No,gift
+1050, Khaled Samir  ,60,Luxor,khaled.samir3@yahoo.com,012 396 2887,Home,$406.77,6,13 Feb 2024,wallet,1,no,
+1183,Hassan Fouad,30,luxor,hassan.fouad80@yahoo.com,01046525224,Electronics,$952.92,3,23 Apr 2024,CC,3,Yes,
+1289,MAHMOUD HASSAN,52,Giza,mahmoud.hassan70@yahoo.com,01038686961,Book,"3,639.24 EGP",6,2024/05/09,Credit Card,1,1,urgent
+1290,Hassan Samir,40,القاهرة,hassan.samir74@hotmail.com,012-6553-4868,Electronic,"$3,794.97",1,04-04-2025,CC,3,TRUE,Customer called!!
+1309,mohamed hassan,30,Alexandria,mohamed.hassan71@gmail.com,+201136305005,home,912.03,3,06-27-2024,Wallet,4,N,
+1206,AHMED KHALIL,34,CAIRO,ahmed.khalil78@yahoo.com,01041927492,Book,"2,513.26 EGP",4,2025-07-10,Credit Card,4,1,
+1350, Ahmed Fouad  ,62,Tanta,ahmed.fouad6@hotmail.com,+201132620027,beauty,1758.05,6,2025/06/24,Credit Card,3,no,
+1398,YOUSSEF ADEL,58,Giza,youssef.adel24@hotmail.com,+201173989419,Beauty,3001.75,6,2024-01-04,Fawry,3,no,
+1200,Tarek Samir,26,Alexandria,tarek.samir40@hotmail.com,01080303981,Beauty,$735.95,5,26/07/2024,Credit Card,none,no,gift
+1369, Mostafa Ibrahim  ,48,Luxor,mostafa.ibrahim19@gmail.com,-,sports,"4,358.86 EGP",1,05-30-2024,Credit Card,3,1,
+1129,HEBA SAMIR,61,luxor,heba.samir11@yahoo.com,+201177390918,Books,"$2,884.94",2,05-02-2025,,3,No,
+1218,tarek samir,36,Mansoura,tarek.samir39@hotmail.com,015 726 9362,Sports,2910.76,2,07-29-2024,Credit card ,3,yes,urgent
+1157,MAHMOUD ADEL,50, Cairo ,mahmoud.adel98@yahoo.com,+201163031203,Home,"3,945.11 EGP",3,03-29-2024,Credit Card,4,1,N/A
+1056, Fatma Ali  ,64,Mansoura,fatma.ali79@yahoo.com,+201141407343,Electronics,2083.75,6,?,Fawry,5,N,
+1096, Laila Naguib  ,54,Luxor,laila.naguib15@hotmail.com,+201189487366,Clothes,1663.14,3,02-06-2025,Credit Card,4,yes,
+1100, Omar Fouad  ,43,Cario,omar.fouad55@yahoo.com,+201138829445,Beauty,"$3,089.83",2,2025/04/05,Fawry,NaN,no,Customer called!!
+1247, Mohamed Adel  ,43,Alexandria,mohamed.adel2@yahoo.com,015 320 8278,Beauty,"$4,276.33",3,01-30-2025,Fawry,4,yes,gift
+1001,SARA HASSAN,65,Giza,sara.hassan12@hotmail.com,01066629388,clothing,1154.89,6,2024/04/14,Credit Card,3,No,urgent
+1175,omar naguib,25,Aswan,sara.gmail.com,+201187981603,Sports,"$2,327.35",6,2024-01-09,Credit card ,3,yes,Customer called!!
+1362,Youssef Khalil,250,,youssef.khalil19@yahoo.com,+201176566782,Books,820.43 EGP,2,03-20-2025,Mobile Wallet,4,No,
+1215,rania ibrahim,47,Tanta,rania.ibrahim59@yahoo.com,012-8709-4796,Clothes,509.94 EGP,6,2025-04-24,FAWRY,4,No,fragile  
+1284,Salma Ali,57,alexandria ,salma.ali23@gmail.com,+201191302255,Home,3468.95,1,09/05/2025,NaN,4,1,N/A
+1168,YOUSSEF ADEL,44,Gizah,youssef.adel34@hotmail.com,012 873 4337,Electronics,816.15,-,08-22-2025,Cash on Delivery,3,1,Customer called!!
+1364,rania adel,N/A,Cario,rania.adel40@yahoo.com,01074277995,clothing,739.19,5,30/03/2025,Fawry,1,Yes,Customer called!!
+1077,Salma Mostafa,36,,salma.mostafa69@hotmail.com,015 956 7504,Home & Kitchen,3247.19,1,10/08/2025,fawry,3,yes,N/A
+1002,Hassan Ali,31,luxor,hassan.ali45@hotmail.com,012-8527-9785,Home,?,4,04-09-2024,Wallet,5,0,
+1271,HASSAN SALEH,65,Mansura,hassan.saleh94@hotmail.com,012-3955-7693,Book,694.49,2,08-08-2024,Wallet,4,0,Customer called!!
+1255, Heba Mostafa  ,50,Alexandria,heba.mostafa15@hotmail.com,015 184 6375,Book,608.59 EGP,3,06 May 2024,Credit Card,2,TRUE,gift
+1322,TAREK HASSAN,56,القاهرة,tarek.hassan31@gmail.com,01022265679,Electronic,"$3,873.43",2,09-12-2024,null,4,No,
+1094,dina samir,23,Tanta,dina.samir53@yahoo.com,+201185099723,Sport,"3,932.97 EGP",4,01-13-2024,cash on delivery,3,yes,fragile  
+1097, Heba Fouad  ,22,Mansoura,heba.fouad89@yahoo.com,012-6890-9796,Sport,2422.21,4,2025/07/01,Mobile Wallet,3,N,gift
+1295,AHMED IBRAHIM,60,Tanta,ahmed.ibrahim91@hotmail.com,012 703 1737,Clothing,4813.76,3,29/07/2024,credit card,1,no,
+1315,Youssef Naguib,46,Luxor,youssef.naguib40@hotmail.com,010 529 7974,sports,199.02 EGP,2,14/08/2025,FAWRY,3,yes,urgent
+1285,Mohamed Ibrahim,39,Mansoura,mohamed.ibrahim63@yahoo.com,01055677542,Electronics,3106.94,1,29/07/2025,Credit card ,1,FALSE,
+1343,ALI SAMIR,52,Luxor,ali.samir92@hotmail.com,012-2922-3960,Sport,"$2,468.39",5,2025/08/21,Cash on Delivery,2,Yes,
+1126,hassan ibrahim,22,giza,hassan.ibrahim12@yahoo.com,012 769 3703,Clothing,4445.26,2,2024/03/17,Wallet,3,Yes,gift
+1130,Fatma Saleh,38,Aswan,fatma.saleh42@yahoo.com,+201171492815,Electronic,999999,5,2025/02/10,cash on delivery,3,0,gift
+1145,Ahmed Samir,65,Tanta,ahmed.samir67@hotmail.com,+201122783183,BEAUTY,2846.81,6,2024/12/12,credit card,3,0,
+1124,ali saleh,64,aswan,NaN,012-6213-4619,Home,680.37 EGP,6,2024/01/02,Fawry,2,No,gift
+1055,nour samir,23,Aswan,not_an_email,01038748452,Beauty,2145.86,3,01-19-2024,Fawry,5,No,
+1291,HEBA IBRAHIM,23,CAIRO,heba.ibrahim10@yahoo.com,011 698 9172,Books,4448.12,4,07 Aug 2024,Wallet,4,FALSE,N/A
+1033, Sara Hassan  ,58,Tanta,sara.hassan71@yahoo.com,015 763 3522,Clothing,"3,563.42 EGP",3,2025-07-18,Fawry,5,1,
+1011,ali ibrahim,54,Alexandria,ali.ibrahim85@hotmail.com,+201180166708,Sports,"$2,992.87",5,24 Mar 2024,Wallet,5,TRUE,
+1207,Mostafa Khalil,37,Giza,mostafa.khalil87@yahoo.com,012-3906-8460,Electronics,292.71,null,01/07/2024,Wallet,5,no,
+1159,tarek samir,22,Giza,tarek.samir63@yahoo.com,+201127208745,beauty,383.45,1,2024/07/21,Cash on Delivery,5,FALSE,Customer called!!
+1265, Salma Hassan  ,21,Luxor,salma.hassan47@hotmail.com,01098238841,electronics,"1,603.83 EGP",3,06 Mar 2024,Cash on Delivery,3,N,Customer called!!
+1338,khaled khalil,55,Alexandria,khaled.khalil19@yahoo.com,012-8467-3415,Electronics,2006.8,5,31/02/2024,COD,NaN,1,
+1140, Karim Fouad  ,61,Alexandria,karim.fouad22@yahoo.com,+201140657783,HOME,none,4,02/01/2025,CC,2,no,
+1051,MONA FOUAD,55,mansoura,?,012-2868-9693,Sports,439.3,3,13/12/2024,Wallet,3,No,fragile  
+1354,AHMED ALI,27,Giza,ahmed.ali87@yahoo.com,012 396 5623,Sport,$117.56,6,2024-08-30,CC,2,TRUE,
+1131,ali naguib,999,tanta,,012-7484-6431,Books,235.46 EGP,3,16/02/2025,FAWRY,5,Yes,
+1268,MOHAMED SALEH,23,Luxor,mohamed.saleh13@gmail.com,012-2087-6764,Books,2381.9,4,06 Dec 2024,Mobile Wallet,4,Yes,
+1190,Salma Ibrahim,47,Luxor,salma.ibrahim91@gmail.com,?,Beauty,350.47,5,03-01-2025,Wallet,4,1,
+1370,MOHAMED KHALIL,29,Tanta,mohamed.khalil92@yahoo.com,01086781282,Clothes,$103.79,4,2025/04/10,fawry,3,TRUE,N/A
+1138,MOHAMED ALI,26,Alexandria,mohamed.ali41@hotmail.com,01034207075,home,"$2,075.50",5,13/04/2025,Credit Card,?,yes,Customer called!!
+1082,MAHMOUD SAMIR,21,القاهرة,mahmoud.samir99@hotmail.com,012 990 7184,Books,$207.09,4,03/07/2024,Mobile Wallet,2,N,
+1075,Laila Saleh,63,null,laila.saleh72@hotmail.com,+201148626436,Beauty,"3,539.69 EGP",3,05-06-2025,,5,Yes,N/A
+1329,ALI NAGUIB,37,Aswan,ali.naguib73@gmail.com,01036068867,Sports,$402.61,1,07 May 2024,Credit Card,4,TRUE,
+1261,KARIM ALI,19,tanta,karim.ali66@yahoo.com,012-8695-1364,Home & Kitchen,none,6,2025/03/08,Credit Card,2,FALSE,
+1283, Mahmoud Saleh  ,59,Mansura,none,+201131653807,Books,628.86 EGP,5,21 Dec 2024,null,3,No,urgent
+1390, Tarek Khalil  ,38,alexandria ,tarek.khalil28@gmail.com,+201147319033,Sports,377.86,3,2024/08/05,wallet,4,Yes,urgent
+1197,Mona Khalil,27,luxor,mona.khalil58@yahoo.com,012-4424-9814,home,$117.98,6,04-23-2024,COD,3,FALSE,gift
+1249,nour saleh,37,Aswan,nour.saleh23@yahoo.com,012-1466-2955,Beauty,2389.08,6,21 Oct 2024,cash,4,0,
+1331,MAHMOUD IBRAHIM,58,tanta,mahmoud.ibrahim90@yahoo.com,015 171 7845,home,none,3,02 Aug 2024,Credit card ,5,TRUE,
+1121,dina khalil,50,Giza,dina.khalil29@gmail.com,none,Books,"$1,388.66",1,2024/11/22,Credit card ,2,No,
+1009,SARA MOSTAFA,30,Alexandria,sara.mostafa60@gmail.com,+201169476001,Sports,2270.64,4,07-06-2024,Wallet,4,FALSE,Customer called!!
+1069,Salma Naguib,31,GIZA,salma.naguib52@gmail.com,012-2739-6228,Sports,$761.16,6,11-22-2024,Fawry,0,No,
+1225,salma saleh,27,Tanta,salma.saleh68@hotmail.com,012-9704-6797,Books,108.72,4,01-26-2025,Credit card ,5,yes,
+1113,AHMED ADEL,45,Giza,ahmed.adel64@yahoo.com,012-1908-9185,sports,366.17,6,2025-08-13,FAWRY,none,0,urgent
+1246,Sara Saleh,19,Mansoura,sara.saleh42@gmail.com,+201196075527,Sports,4212.34,4,2024-12-31,FAWRY,1,No,N/A
+1083,AHMED HASSAN,37,mansoura,ahmed.hassan30@gmail.com,01071824078,Beauty,3609.52,4,28 Jun 2025,Credit Card,4,0,
+1139,ali fouad,48,mansoura,ali.fouad42@hotmail.com,012-1067-5076,Electronic,236.74,2,2025-01-17,Fawry,3,No,N/A
+1200,Tarek Samir,26,Alexandria,tarek.samir40@hotmail.com,01080303981,Beauty,$735.95,5,26/07/2024,Credit Card,none,no,gift
+1245, Nour Adel  ,46,tanta,nour.adel64@gmail.com,011 762 5842,Clothing,"$2,691.53",1,26 Jan 2024,FAWRY,5,0,N/A
+1142,Youssef Adel,63,Mansoura,youssef.adel89@yahoo.com,+201141474764,Home,843.85,5,23/05/2025,cash on delivery,0,1,gift
+1353,HEBA HASSAN,40,Luxor ,heba.hassan18@yahoo.com,01066513148,Beauty,1032.4,NaN,2024-10-18,CC,4,FALSE,
+1103,MONA SALEH,20,Giza,mona.saleh96@yahoo.com,012-2854-2871,CLOTHING ,2711.16,2,2025/04/13,Credit Card,3,Yes,
+1231,LAILA NAGUIB,52,Luxor,laila.naguib8@yahoo.com,+201164426343,books,4834.54,?,02-07-2024,Credit card ,4,No,
+1115,Tarek Hassan,41,Alexandria,tarek.hassan48@hotmail.com,01076217748,HOME,"2,840.84 EGP",3,05 Sep 2024,cash,4,1,gift
+1330,nour saleh,56,Mansoura,nour.saleh2@gmail.com,015 630 4093,Beauty,779.47 EGP,2,15/08/2025,fawry,3,TRUE,Customer called!!
+1156,Ahmed Naguib,63,Giza,ahmed.naguib72@gmail.com,012 561 7626,Electronics,483.23,1,07-01-2024,?,5,Yes,
+1179,Mona Adel,38,ASWAN,mona.adel57@yahoo.com,+201179918804,home,"3,566.65 EGP",5,02-08-2025,Fawry,4,N,
+1233,Mohamed Khalil,29,giza,mohamed.khalil90@yahoo.com,015 236 2637,Electronics,647.69,2,01/03/2025,Wallet,3,Yes,fragile  
+1301,AHMED SALEH,61,Aswan,ahmed.saleh30@yahoo.com,010 107 4212,Home,997.98,5,06/11/2024,FAWRY,2,yes,
+1034,ali mostafa,56,NaN,none,012 986 3434,Beauty,"4,402.66 EGP",1,09 Oct 2024,Cash on Delivery,3,FALSE,
+1272,YOUSSEF FOUAD,63,,youssef.fouad8@gmail.com,015 105 5155,Beauty,"3,006.12 EGP",null,2024/04/07,Cash on Delivery,5,TRUE,N/A
+1391,mostafa fouad,33,tanta,NaN,01027590313,Electronics,1460.93,6,2025-08-12,Credit Card,4,No,
+1075,Laila Saleh,63,null,laila.saleh72@hotmail.com,+201148626436,Beauty,"3,539.69 EGP",3,05-06-2025,,5,Yes,N/A
+1243, Nour Naguib  ,null,mansoura,nour.naguib9@gmail.com,011 771 6346,Books,3701.66,1,25/10/2024,Fawry,3,1,gift
+1008, Karim Ibrahim  ,50,Alexandria,karim.ibrahim93@hotmail.com,01087337818,Home,3361.44,2,06/07/2025,Credit Card,4,no,urgent
+1394, Mona Ibrahim  ,34,luxor,mona.ibrahim85@hotmail.com,+201120471228,Home,"$3,571.34",3,25/07/2025,CC,4,TRUE,gift
+1219,sara saleh,19,none,null,012 242 4083,Books,"$3,526.00",4,21 Nov 2024,Fawry,5,TRUE,
+1091, Karim Khalil  ,24,Tanta,karim.khalil35@gmail.com,01019978827,ELECTRONICS,"$1,187.34",6,03 Aug 2025,Cash on Delivery,4,0,Customer called!!
+1144,Ali Naguib,44,Aswan,ali.naguib14@yahoo.com,01089289163,Clothing,609.63,6,01/03/2024,credit card,3,FALSE,urgent
+1146,Salma Adel,33,GIZA,salma.adel52@gmail.com,015 977 9166,HOME,299.24,2,17 Jul 2025,Wallet,5,No,gift
+1073,SALMA HASSAN,41,Giza,salma.hassan93@hotmail.com,010 838 1841,beauty,592.54,4,08-20-2025,Credit Card,3,1,urgent
+1148,SALMA ALI,63,Aswan,salma.ali16@yahoo.com,01038935933,beauty,2075.59,3,19/07/2024,Wallet,2,FALSE,fragile  
+1057, Fatma Ali  ,34,Cairo,fatma.ali92@hotmail.com,+201148260510,Beauty,"$2,428.92",3,2025-07-21,Credit Card,4,No,N/A
+1212, Youssef Ibrahim  ,46,Tanta,ahmed@@gmail.com,+201151655640,Electronics,4005.18,5,06/06/2024,COD,4,Yes,
+1105,Khaled Ibrahim,26,Luxor,khaled.ibrahim32@gmail.com,010 691 5402,Books,4597.91,3,09/05/2024,COD,4,FALSE,fragile  
+1149, Khaled Ali  ,62,Tanta,khaled.ali85@hotmail.com,012-9259-7302,CLOTHING ,"3,665.95 EGP",2,16 Apr 2024,Fawry,null,no,N/A
+1269,laila adel,NaN,Cario,laila.adel88@yahoo.com,N/A,Electronics,831.22,5,2024/05/13,Credit Card,4,No,
